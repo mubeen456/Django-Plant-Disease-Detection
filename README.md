@@ -49,13 +49,6 @@
   05. PIL
   06. Numpy
  
-# Screenshots
-  
-  ![](screenshots/home.png "Home Page")
-
-  ![](screenshots/choose_img.png "Choose Image")
-
-  ![](screenshots/Output_img.png "Output of running manage.py")
 
 
 
